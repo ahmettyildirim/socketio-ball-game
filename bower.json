@@ -1,0 +1,14 @@
+{
+  "name": "ballgame",
+  "description": "",
+  "main": "",
+  "authors": [
+    "'AHMET <ahmetyildirim3@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ahmettyildirim/socketio-ball-game",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "semantic": "^2.4.1"
+  }
+}
